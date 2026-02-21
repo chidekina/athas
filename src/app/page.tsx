@@ -99,7 +99,7 @@ export default function Home() {
   return (
     <main className="max-w-2xl mx-auto py-10 px-4">
       <div className="mb-8">
-        <h1 className="text-3xl font-bold">Ata.ai</h1>
+        <h1 className="text-3xl font-bold">Athas</h1>
         <p className="text-muted-foreground mt-1">
           Gere atas de reunião profissionais com IA
         </p>
